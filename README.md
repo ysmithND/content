@@ -1,2 +1,2 @@
-# whitepapers
-Collection of whitepapers I've written either for professional or personal research
+# whitepapers, research, presentations
+Collection of whitepapers, presentations & research I've completed or am working on either professionally or personally. Please provide proper attribution if used in any way
